@@ -7,10 +7,16 @@ evaluation of the model are taken from the competition PhysioNet/CinC competitio
 
 Data : https://physionet.org/static/published-projects/challenge-2017/af-classification-from-a-short-single-lead-ecg-recording-the-physionet-computing-in-cardiology-challenge-2017-1.0.0.zip
 
-Libraries 
+Libraries : 
+
 -keras 2.2.4
+
 -tensorflow 1.14.0
+
 -pandas0.25.1
+
 -numpy 1.18.3
+
 -scipy 1.4.1
+
 -matplotlib 3.2.1
